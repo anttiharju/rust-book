@@ -1,2 +1,3 @@
 # rust-playground
-Exactly what it says on the tin
+
+Working my way through https://doc.rust-lang.org/book/
