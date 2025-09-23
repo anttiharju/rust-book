@@ -12,7 +12,7 @@
         pkgs = import nixpkgs { inherit system; };
       in {
         default = pkgs.mkShell {
-          packages = with pkgs; [ rustc cargo rustfmt ];
+          packages = with pkgs; [ rustc cargo rustfmt rust-analyzer ];
         };
       });
     };
