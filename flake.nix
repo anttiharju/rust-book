@@ -12,7 +12,7 @@
         pkgs = import nixpkgs { inherit system; };
       in {
         default = pkgs.mkShell {
-          packages = with pkgs; [ rustc cargo rustfmt rust-analyzer ];
+          packages = with pkgs; [ rustc cargo rustfmt rust-analyzer clippy ];
 
           env = {
             RUST_SRC_PATH = "${pkgs.rust.packages.stable.rustPlatform.rustLibSrc}";
