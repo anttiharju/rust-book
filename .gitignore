@@ -27,6 +27,6 @@ result-*
 # Ignore automatically generated direnv output
 .direnv
 
-# .vscode
+# Ignore Visual Studio Code settings, but not the recommended extensions
 .vscode/*
 !.vscode/extensions.json
