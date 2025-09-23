@@ -12,11 +12,15 @@
         pkgs = import nixpkgs { inherit system; };
       in {
         default = pkgs.mkShell {
-          packages = with pkgs; [ rustc cargo rustfmt rust-analyzer clippy ];
+          packages = with pkgs; [ rustc cargo rustfmt rust-analyzer clippy lefthook ];
 
           env = {
             RUST_SRC_PATH = "${pkgs.rust.packages.stable.rustPlatform.rustLibSrc}";
           };
+
+          shellHook = ''
+            lefthook install
+          '';
         };
       });
     };
