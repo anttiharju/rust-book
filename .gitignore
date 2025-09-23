@@ -22,3 +22,7 @@ target
 
 # nix-direnv
 .direnv
+
+# .vscode
+.vscode/*
+!.vscode/extensions.json
