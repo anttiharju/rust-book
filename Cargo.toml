@@ -1,5 +1,7 @@
 [workspace]
 
+resolver = "3"
+
 members = [
     "ch01/01_get_dependencies",
     "ch01/03_hello_cargo",
