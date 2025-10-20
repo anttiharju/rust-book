@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "ch01/01_get_dependencies",
+    "ch01/03_hello_cargo",
+    "ch02/00_guessing_game",
+]
