@@ -4,4 +4,4 @@ Currently at https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.
 
 ## Further reading
 
-The Cargo Book https://doc.rust-lang.org/cargo/
+- [ ] The Cargo Book https://doc.rust-lang.org/cargo/
