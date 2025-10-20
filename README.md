@@ -1,6 +1,6 @@
 # rust-book
 
-Currently at https://doc.rust-lang.org/book/ch03-03-how-functions-work.html
+Currently at https://doc.rust-lang.org/book/ch03-05-control-flow.html
 
 ## Further reading
 
