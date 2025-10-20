@@ -1,6 +1,6 @@
 # rust-book
 
-Currently at https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html
+Currently at https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
 
 ## Further reading
 
