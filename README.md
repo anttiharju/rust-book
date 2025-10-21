@@ -1,6 +1,6 @@
 # rust-book
 
-Currently at https://doc.rust-lang.org/book/ch03-05-control-flow.html#returning-values-from-loops
+Currently at https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html
 
 ## Further reading
 
