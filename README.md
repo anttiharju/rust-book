@@ -1,6 +1,6 @@
 # rust-book
 
-Currently at https://doc.rust-lang.org/book/ch06-00-enums.html
+Currently at https://doc.rust-lang.org/book/ch07-02-defining-modules-to-control-scope-and-privacy.html
 
 ## Further reading
 
